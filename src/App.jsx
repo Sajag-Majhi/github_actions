@@ -1,9 +1,6 @@
 import './App.css'
 import Sajag from './Components/Sajag'
 import Ram from './Components/Ram'
-import Shyam from './Components/Shyam'
-import Krishna from './Components/Krishna'
-import Hari from './Components/Hari'
 
 function App() {
 
@@ -11,9 +8,6 @@ function App() {
     <>
       <Sajag/>
       <Ram/>
-      <Shyam/>
-      <Krishna/>
-      <Hari/>
     </>
   )
 }
