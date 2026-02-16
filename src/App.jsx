@@ -1,13 +1,13 @@
 import './App.css'
 import Sajag from './Components/Sajag'
-import Hari from './Components/Hari'
+import Ram from './Components/Ram'
 
 function App() {
 
   return (
     <>
       <Sajag/>
-      <Hari/>
+      <Ram/>
     </>
   )
 }
